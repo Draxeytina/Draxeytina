@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I will be updating this soon...
+
+Meanwhile, checkout more about me on the following links and let's connect 😁
+
+* <a href="https://github.com/Draxeytina/">Github</a>
+* <a href="https://twitter.com/tinamura2">Twitter</a>
+* <a href="https://www.linkedin.com/in/timothy-tinashe-murambinda-192442232/">LinkedIn</a>
+
+Keep checking for updates 👋
 <!--
 **Draxeytina/Draxeytina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
