@@ -12,9 +12,12 @@ Checkout more about me and let's connect 😁
 - 👯 I’m looking to collaborate on asingle paged dynamic website
 - 🤔 I’m looking for help with APIs 😫
 
+
 <h2 align="center"> 
   Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/Draxeytina/count.svg" />
 </h2>
 
 Thank you for visiting, keep checking for updates 👋
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Draxeytina&bg_color=0d1117&color=fff&line=1155ba&point=dcdcdc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
