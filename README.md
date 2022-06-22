@@ -9,8 +9,7 @@ Checkout more about me and let's connect 😁
 
 - 🔭 I’m currently working on an API project using JavaScript 
 - 🌱 I’m currently learning at Microverse
-- 👯 I’m looking to collaborate on asingle paged dynamic website
-- 🤔 I’m looking for help with APIs 😫
+- 👯 I’m looking to collaborate on a SPA website
 
 <h2 align="center"> 
   Visitor count<br><br>
