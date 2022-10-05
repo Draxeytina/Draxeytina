@@ -5,7 +5,7 @@ Checkout more about me and let's connect.
 
 * <a href="https://github.com/Draxeytina/">Github</a>
 * <a href="https://twitter.com/tinamura2">Twitter</a>
-* <a href="https://www.linkedin.com/in/timothy-tinashe-murambinda-192442232/">LinkedIn</a>
+* <a href="https://www.linkedin.com/in/timothy-tinashe-murambinda">LinkedIn</a>
 
 - 🔭 I’m currently working on an API project using JavaScript and Rails. 
 - 🌱 I’m currently learning at Microverse
