@@ -7,9 +7,9 @@ Checkout more about me and let's connect.
 * <a href="https://twitter.com/tinamura2">Twitter</a>
 * <a href="https://www.linkedin.com/in/timothy-tinashe-murambinda">LinkedIn</a>
 
-- 🔭 I’m currently working on an API project using JavaScript and Rails. 
-- 🌱 I’m currently learning at Microverse
-- 👯 I’m looking to collaborate on a SPA website
+- 🔭 I’m currently working on an API project using React and Rails. 
+- 🌱 I hold a full-stack web developer certificate from Microverse.
+- 👯 I’m looking to collaborate on a Ruby and React website.
 
 <h2 align="center"> 
   Visitor count<br><br>
