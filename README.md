@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on a Ruby and React app.
 
 <div align="left">
-  <p>Let's connect~</p>
+  <h4>Let's connect~</h4>
 <a  href="https://www.linkedin.com/in/timothy-tinashe-murambinda" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/tinamura2" target="_blank"> <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=plastic&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:tinashemurambinda@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" /><a/>
@@ -14,12 +14,12 @@
 </div>
 
 
-<p align="left"> 
+<h4 align="left"> 
   Profile views ~ <br><br>
   <img src="https://profile-counter.glitch.me/Draxeytina/count.svg" />
-</p>
+</h4>
 
-<p align="left">Tech-stack~</p>
+<h4 align="left">Tech-stack~</h4>
 <div align="left">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white" /> <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white" /> <img src="https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white" /> <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white" /> <img src="https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/-mocha-%238D6748?style=plastic&logo=mocha&logoColor=white" />  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white" /> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" />
 </div>
@@ -35,4 +35,4 @@
 </table>
 
 
-Thank you for visiting, keep checking for updates 👋
+  <small>Thank you for visiting, keep checking for updates 👋</small>
