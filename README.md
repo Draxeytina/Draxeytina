@@ -10,7 +10,6 @@
 <a href="https://twitter.com/tinamura2" target="_blank"> <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=plastic&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:tinashemurambinda@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" /><a/>
 <br>
-<br>
 </div>
 
 
