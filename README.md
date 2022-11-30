@@ -35,4 +35,4 @@
 </table>
 
 
-  <small>Thank you for visiting, keep checking for updates 👋</small>
+  <small>Thank you for visiting, keep checking for updates</small>
