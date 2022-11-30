@@ -9,7 +9,7 @@ Checkout more about me and let's connect.
 
 - 🔭 I’m currently working on an API project using React and Rails. 
 - 🌱 I hold a full-stack web developer certificate from Microverse.
-- 👯 I’m looking to collaborate on a Ruby and React website.
+- 👯 I’m looking to collaborate on a Ruby and React app.
 
 <h2 align="center"> 
   Visitor count<br><br>
