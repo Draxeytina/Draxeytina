@@ -14,6 +14,7 @@ Checkout more about me and let's connect.
 <h2 align="center"> 
   Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/Draxeytina/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Draxeytina&label=Profile%20views&color=blue&style=plastic" alt="Draxeytina" />
 </h2>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Draxeytina&bg_color=0d1117&color=fff&line=1155ba&point=dcdcdc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
