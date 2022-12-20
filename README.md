@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on an API project using React and Rails. 
 - 🌱 I hold a full-stack web developer certificate from Microverse.
-- 👯 I’m looking to collaborate on a Ruby and React app.
+- 👯 I’m looking forward to collaborate on a Ruby and React app.
 
 <div align="left">
   <h4>Let's connect~</h4>
