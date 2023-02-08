@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on an API project using React and Rails. 
 - 🌱 I hold a full-stack web developer certificate from Microverse.
 - 👯 I’m looking forward to collaborate on a Ruby and React app.
-- Fun fact: `I'm actually a good trader.` 😏
+- Fun fact: `I'm actually a good trader.` 
 
 <div align="left">
   <h4>Let's connect~</h4>
