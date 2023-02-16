@@ -4,7 +4,7 @@
 - 🌱 I hold a full-stack web developer certificate from Microverse.
 - 👯 I’m looking forward to collaborate on a Ruby and React app.
 - 😸 Fun fact: `I'm actually a good trader.` 
-- 🤟 I love working on fintech projects... maybe because of my finance background 
+- 🤟 I love working on fintech projects... maybe because of my finance background.
 
 <div align="left">
   <h4>Let's connect~</h4>
