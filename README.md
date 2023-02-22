@@ -28,7 +28,7 @@
 
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <h4 align="left">Tech-stack~</h4>
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/typeScript-007ACC?style=plastic&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" />
