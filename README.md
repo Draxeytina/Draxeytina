@@ -26,20 +26,29 @@
   <img src="https://profile-counter.glitch.me/Draxeytina/count.svg" />
 </h4>
 
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <h4 align="left">Tech-stack~</h4>
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typeScript-007ACC?style=plastic&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/angular-DD0031?style=plastic&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white" />
+  <img src="https://img.shields.io/badge/sass-hotpink.svg?style=plastic&logo=SASS&logoColor=white" />
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=plastic&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?&style=plastic&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/unsplash-000000?style=plastic&logo=Unsplash&logoColor=white" />
+  <img src="https://img.shields.io/badge/netlify-00C7B7?style=plastic&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/heroku-430098?style=plastic&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-000000?style=plastic&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-%23000000.svg?style=plastic&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white" />
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/-mocha-%238D6748?style=plastic&logo=mocha&logoColor=white" />
