@@ -79,7 +79,7 @@
  <img src="https://user-images.githubusercontent.com/59999191/204917455-d54abeaa-137f-4aec-ad89-1efaaafc5992.png" alt="Contribution ranking" />
 </div>
 <br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Draxeytina&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Draxeytina&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
   
   <small>Thank you for visiting, keep checking for updates.</small>
