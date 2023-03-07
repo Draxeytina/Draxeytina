@@ -21,10 +21,10 @@
 </div>
 
 
-<!-- <h4 align="left"> 
+<h4 align="left"> 
   Profile views ~ <br><br>
   <img src="https://profile-counter.glitch.me/Draxeytina/count.svg" />
-</h4> -->
+</h4>
 
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <h4 align="left">Tech-stack~</h4>
