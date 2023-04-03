@@ -5,6 +5,7 @@
 - 👯 I’m looking forward to collaborate on a Ruby and React app.
 - 😸 Fun fact: After years trying out other things, I came back to programming.
 - 🤟 I love working on fintech projects because of my finance background.
+- <3 Random: Just married!
 
 <div align="left">
   <h4>Let's connect~</h4>
