@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Tinashe (tee-nah-sher)👋</h1>
+<h1> Hi there, I'm Tinashe (tee-nah-sher)👋 </h1>
 
 - 🔭 I’m currently working on an API project using React and Rails. 
 - 🌱 I hold a `full-stack web developer` certificate from Microverse.
