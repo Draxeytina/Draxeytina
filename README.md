@@ -1,11 +1,10 @@
 <h1> Hi there, I'm Tinashe (tee-nah-sher)👋 </h1>
 
 - 🔭 I’m currently working on an API project using React and Rails. 
-- 🌱 I hold a `full-stack web developer` certificate from Microverse.
-- 👯 I’m looking forward to collaborate on a Ruby and React app.
-- 😸 Fun fact: After years trying out other things, I came back to programming.
+- 🌱 I hold a `full-stack web developer` certificate.
+- 👯 I’m looking forward to collaborate on a fintech app.
 - 🤟 I love working on fintech projects because of my finance background.
-- <3 Random: Just married!
+- <3 Random: Devoted disciple!
 
 <div align="left">
   <h4>Let's connect~</h4>
